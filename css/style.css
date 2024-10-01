@@ -1,0 +1,15 @@
+.cruds {
+background-color: rgb(83, 75, 83);
+}
+.cord{
+background-color:#fff;
+border-radius:3%;}
+.update{
+    background-color: #09c;
+    border-radius: 4%;
+}
+.delet{
+    background-color: hotpink;
+    border-radius: 4%;
+
+}
